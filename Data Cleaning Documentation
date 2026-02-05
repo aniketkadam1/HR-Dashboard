@@ -1,0 +1,11 @@
+### Data Cleaning Steps
+
+1. Removed non-informative columns (EmployeeCount, Over18, StandardHours)
+2. Verified and corrected data types
+3. Trimmed and cleaned text columns
+4. Created new analytical fields:
+   - Attrition Flag (Yes/No → 1/0)
+   - Salary Band (Low / Medium / High)
+   - Experience Band (Fresher / Junior / Mid / Senior)
+   - Overtime Flag
+5. Validated row count and key metrics after cleaning

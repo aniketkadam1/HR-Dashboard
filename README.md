@@ -54,6 +54,9 @@ Using Power BI, the dashboard provides actionable insights into attrition trends
 ## 📷 Dashboard Preview
 <img width="1382" height="762" alt="Screenshot 2026-02-05 095633" src="https://github.com/user-attachments/assets/7c6059b5-3599-491d-b7b1-a1401b229f9e" />
 
+<img width="889" height="776" alt="image" src="https://github.com/user-attachments/assets/51af5cc2-776c-4b27-91ba-7c9c7ef5325c" />
+
+
 
 ## 📌 Conclusion
 This dashboard enables HR teams to proactively address attrition risks and implement targeted retention strategies.

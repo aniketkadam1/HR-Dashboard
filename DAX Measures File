@@ -1,0 +1,11 @@
+Total Employees = COUNT('HR Data'[EmployeeNumber])
+
+Attrition Count = SUM('HR Data'[Attrition Flag])
+
+Attrition Rate % = 
+DIVIDE([Attrition Count], [Total Employees])
+
+Average Salary = AVERAGE('HR Data'[MonthlyIncome])
+
+Average WorkLife Balance = 
+AVERAGE('HR Data'[WorkLifeBalance])
